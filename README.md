@@ -1,7 +1,6 @@
 # CLPD-DetailAnalysis
 
-This package implements cross-language detail analysis (text alignment). For more information, please search "Cross-language Text Alignment: 
-A proposed two-level matching scheme for plagiarism detection".
+This package implements cross-language detail analysis (text alignment). 
 
 If you have any question, please don't hesitate to contact me. 
 
